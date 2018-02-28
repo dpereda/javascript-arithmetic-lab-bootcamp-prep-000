@@ -1,5 +1,5 @@
 add(), subtract(), multiply(), divide()
 
-function add(number){
-  
+function add(a,b){
+  return a+b
 }
